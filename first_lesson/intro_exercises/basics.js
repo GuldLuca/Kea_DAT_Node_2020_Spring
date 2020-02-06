@@ -1,8 +1,10 @@
+//Exercise 1
 var firstName = "Luca";
 var lastName = "Bastholm";
 
 console.log("My first name is", firstName,  "and my last name is", lastName);
 
+//Exercise 2
 var year = "2020";
 var number = 1;
 
